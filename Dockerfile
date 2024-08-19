@@ -1,4 +1,4 @@
-FROM ubuntu:20.04
+FROM ubuntu:22.04
 
 ARG buildtime_BYOND_MAJOR=515
 ARG buildtime_BYOND_MINOR=1633
