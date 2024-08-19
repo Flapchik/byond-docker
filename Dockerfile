@@ -1,4 +1,4 @@
-FROM debian:buster-slim
+FROM ubuntu:20.04
 
 ARG buildtime_BYOND_MAJOR=515
 ARG buildtime_BYOND_MINOR=1633
